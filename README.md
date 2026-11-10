@@ -1,8 +1,6 @@
 ## Javeer
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=D62828&center=true&width=600&lines=Genius%2C+billionaire%2C+playboy%2C+philanthropist;I+am+Iron+Man;I+love+you+3000;Sometimes+you+gotta+run+before+you+can+walk" alt="Typing SVG" />
-</p>
-<p align="center">
   <img src="4kironman.jpeg" width="1200" alt="banner" />
 </p>
 
