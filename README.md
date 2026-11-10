@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=435&lines=PHP;MySql;Linux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F7B731&center=true&width=500&lines=I+am+Iron+Man;I+love+you+3000;There+is+no+spoon;I+am+inevitable;Hello%2C+world" alt="Typing SVG" />
 </p>
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
