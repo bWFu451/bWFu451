@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-![My stats](https://github-readme-stats.vercel.app/api?username=bWFu451&show_icons=true&theme=dark)
-![Top stack](https://github-readme-stats.vercel.app/api/top-langs/?username=bWFu451&layout=compact&theme=dark)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
